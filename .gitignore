@@ -1,0 +1,8 @@
+*.DS_Store
+
+# 모델 가중치 값들을 저장한 파일
+model.safetensors
+
+# 학습에 사용된 옵티마이저의 상태를 저장한 파일
+optimizer.pt
+
